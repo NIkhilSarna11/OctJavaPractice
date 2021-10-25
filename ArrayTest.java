@@ -13,7 +13,7 @@ class ArrayTest {
 
  for(int b : arr )
 {
-    System.out.println(b) ; 
+    System.out.println(b+1) ; 
 } 
 }
 
